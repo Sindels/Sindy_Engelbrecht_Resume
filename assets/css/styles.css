@@ -1,0 +1,99 @@
+#Intro {
+  text-align: center;
+  padding: 50px;
+  background-image: url(../../assets/img/thunderstorm-3625405_1920.jpg);
+  background-size: cover;
+}
+
+/* I have created some style for the main attraction of  my page and I inserted a background picture */
+
+#Intro .jumbotron {
+  background-color: rgba(255,255,255,0.60);
+  padding: 10px;
+}
+
+/* I gave the jumbotron a specified colour */
+
+.container {
+  padding: 20px;
+  text-align: center;
+}
+
+#skill {
+  padding: 20px;
+  text-align: center;
+}
+
+/* I centered the text */
+
+body {
+  margin: 10px;
+  padding: 10px;
+  background-color: #babfb7;
+}
+
+/* I gave the body a margin, padding and a background colour */
+
+#chart {
+  height: 400px;
+  width: auto;
+  border-color: rgb(0,143,221);
+}
+
+/* I gave the chart a colour and a specified height */
+
+#informMe {
+  margin: 30px;
+  padding: 15px;
+  font-weight: bold;
+  padding-top: 40px;
+}
+
+.text {
+  text-align: center;
+}
+
+/* Aligned the text to center */
+
+.info {
+  margin: 15px;
+  padding: 5px;
+}
+
+.grid-container {
+  display: grid;
+  padding: 10px;
+}
+
+#competent {
+  border-right: solid #adafaa 1px;
+}
+
+#work {
+  border-right: solid #adafaa 1px;
+}
+
+/* I gave this item a border */
+
+.profile-header-img {
+  padding: 34px;
+}
+
+.profile-header-img > img.img-circle {
+  width: auto;
+  height: 160px;
+  border-radius: 30px;
+}
+
+/* THE FOOTER STYLING */
+
+#footerpad {
+  padding-top: 70px;
+  padding-bottom: 20px;
+  background-color: #000000;
+}
+
+a:focus, a:hover {
+  color: #0085A1;
+}
+
